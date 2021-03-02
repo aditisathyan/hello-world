@@ -2,4 +2,6 @@
 
 Hi
 
-My name is Aditi. My friends call me Addie. I am studying at ASU and majoring in Computer Science.
+CSE 360 Hello World git demo
+
+My name is Aditi. 
